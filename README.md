@@ -1,2 +1,2 @@
 # Demo
-to learn basic git commands
+to learn basic git commands :)
